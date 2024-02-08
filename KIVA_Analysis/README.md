@@ -1,4 +1,5 @@
 # Исследование данных о выданных кредитах на платформе kiva.org
+**Инструменты:** python, pandas, numpy, scipy, matplotlib, plotly, seaborn, nltk, wordcloud
 
 ## Описание и цели исследования
 
