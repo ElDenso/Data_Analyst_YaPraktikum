@@ -1,4 +1,6 @@
 # Исследование рынка общественного питания Москвы
+**Инструменты:**  	python, pandas, plotly, matplotlib, folium
+
 *Рекомендуется для отображения карт смотреть тетрадку по ссылке: https://nbviewer.org/github/ElDenso/Data_Analyst_YaPraktikum/blob/main/Moscow_Food_project/moscow_food_analysis%20for%20Git.ipynb*
 
 ## Описание и цели исследования
