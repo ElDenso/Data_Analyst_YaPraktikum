@@ -1,5 +1,5 @@
 # Исследование оттока посетителей фитнес-центра (Проект завершен)
-**Инструменты:** python, pandas, numpy, seaborn, sklearn, scipy
+**Инструменты:** python, pandas, numpy, seaborn, sklearn, scipy, KMeans, Machine Learning, RandomForestClassifier, LogisticRegression
 
 ## Описание и цели исследования
 Сети фитнес-центров необходимо разработать стратегию для взаимодействия с клиентами и снизить отток клиентов.
